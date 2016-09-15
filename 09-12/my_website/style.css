@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+}
+#Intro {
+  float: left;
+  width: 90%;
+  color: #4285F4;
+  background-color: aqua;
+  font-size: 200%;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a {
+  color: lightblue;
+  font-family: Helvetica, 'sans serif';
+  text-decoration: none;
+}
+.Summary {
+  background-color: green;
+  font-family: cursive;
+  font-size: 200%;
+  margin-top: 0;
+}
+ol,ul {
+  color : grey;
+  font-size: 150%;
+  font-family: 'Indie Flower', cursive;
+}
+.navbar{
+  float: left;
+  width: 100%;
+  background-color: orange;
+  text-align: center;
+}
+.lnavbar{
+  float: left;
+  width: 10%;
+  background-color: blue;
+  padding-top: 10%;
+  padding-bottom: 70%;
+  font-size: 1.5em;
+}
+.floatimg{
+  float: left;
+  margin-top: 0;
+}
+.floatimgr{
+  float: right;
+}
